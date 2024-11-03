@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate **.....**
 
-- 👨‍💻 All of my projects are available at [PORTFOLIO](https://www.com)
+- 👨‍💻 All of my projects are available at [PORTFOLIO](https://snazzy-kelpie-f08c27.netlify.app/)
 
 - 💬 Ask me about **Python,C++,HTML,CSS,JS**
 
