@@ -16,7 +16,8 @@
 
 - 💬 Ask me about **Python,C++,HTML,CSS,JS**
 
-- 📫 How to reach me [EMAIL](sadiqaatiqa39@gmail.com)
+- 📫 How to reach me [Email Me](mailto:sadiqaatiqa39@gmail.com)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
